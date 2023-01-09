@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113949476/211379383-3589960a-8722-4e32-91b4-c5acbc0771fd.svg">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDesigner&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDesigner&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDesigner&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
