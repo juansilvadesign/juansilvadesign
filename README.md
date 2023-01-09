@@ -4,7 +4,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/113949476/211379100-16230765-3fe3-4819-9b7e-b35f0175bdb1.png)](https://github.com/JuanPabloDesigner)
 
 
-<img align="right" alt="Coding" width="400" src="add your link here">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113949476/211379383-3589960a-8722-4e32-91b4-c5acbc0771fd.svg">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDesigner)](https://github.com/anuraghazra/github-readme-stats)
 
