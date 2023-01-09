@@ -1,7 +1,7 @@
 # github-profile
 
 
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](your image link)](https://github.com/JuanPabloDesigner)
 
 
 <img align="right" alt="Coding" width="400" src="add your link here">
