@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&pause=1000&color=9745F5&multiline=true&width=435&height=90&lines=Welcome+to+my+profile%2C;My+name+is+Juan+Pablo%2C+I'm+20yo%2C;I'm+from+Rio+de+Janeiro%2C+Brazil.)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113949476/211379383-3589960a-8722-4e32-91b4-c5acbc0771fd.svg">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/113949476/211379383-3589960a-8722-4e32-91b4-c5acbc0771fd.svg">
 
 [![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDesigner&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
