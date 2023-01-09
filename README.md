@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/jaypy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/Juan_UXDesigner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://t.me/jaypy06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/908604345992491018" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="discord" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/908604345992491018" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113949476/211386675-33e1a066-6e5f-4c02-90e5-519f481604a6.svg" alt="discord" height="30" width="40" /></a>
 <a href="https://medium.com/@JuanPablo." target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="medium" height="30" width="40" /></a>
   <!--
 <a href="https://twitter.com/Juan_UXDesigner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
