@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansilvadesign&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/356448302587445249)
+
 
 
 
