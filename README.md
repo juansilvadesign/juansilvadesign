@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansilvadesign&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=juansilvadesign)
+![Profile Views](https://komarev.com/ghpvc/?username=juansilvadesign&label=Profile+Reach&style=plastic&color=00c8ff&base=1000&abbreviated=true)
 
 <!--
 [![Discord Presence](https://lanyard.cnrad.dev/api/1418278686498754655)](https://discord.com/users/1418278686498754655)
